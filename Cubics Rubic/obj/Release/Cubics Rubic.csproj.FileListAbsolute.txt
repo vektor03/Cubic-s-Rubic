@@ -1,0 +1,72 @@
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Cubics Rubic.dll.config
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Cubics Rubic.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Cubics Rubic.pdb
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\csc.exe
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\csc.exe.config
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\csc.rsp
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\csi.exe
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\csi.exe.config
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\csi.rsp
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.AppContext.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Collections.Immutable.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Console.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.IO.Compression.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.IO.FileSystem.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.IO.Pipes.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Reflection.Metadata.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.AccessControl.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.Claims.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Security.Principal.Windows.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.ValueTuple.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Xml.XPath.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\vbc.exe
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\vbc.exe.config
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\vbc.rsp
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\VBCSCompiler.exe
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\roslyn\VBCSCompiler.exe.config
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Antlr3.Runtime.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\AspNet.ScriptManager.bootstrap.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\AspNet.ScriptManager.jQuery.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.ScriptManager.WebForms.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.Web.Infrastructure.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Newtonsoft.Json.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\System.Web.Optimization.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\WebGrease.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\System.Web.Optimization.xml
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Newtonsoft.Json.xml
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Antlr3.Runtime.pdb
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\ru\System.Web.Optimization.resources.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\obj\Release\Cubics Rubic.csprojAssemblyReference.cache
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\obj\Release\Cubics Rubic.csproj.CopyComplete
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\obj\Release\Cubics Rubic.dll
+D:\VICTOR\Cubic's Rubic\Cubics Rubic\obj\Release\Cubics Rubic.pdb
