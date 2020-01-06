@@ -6,14 +6,17 @@
         <h1>Cubic&#39;s Rubic</h1>
         <p class="lead">
             &nbsp;</p>
-        <asp:Panel ID="Panel1" runat="server" Width="1289px">
-            <asp:Image ID="Image1" runat="server" Height="500px" ImageUrl="Content/temp.png" Width="500px" />
-            <asp:Button ID="FrontBtn" runat="server" Height="67px" OnClick="FrontBtn_Click" Text="Front" Width="120px" />
-            <asp:Button ID="BackBtn" runat="server" Height="67px" OnClick="BackBtn_Click" Text="Back" Width="120px" />
-            <asp:Button ID="RightBtn" runat="server" Height="67px" OnClick="RightBtn_Click" Text="Right" Width="120px" />
-            <asp:Button ID="LeftBtn" runat="server" Height="67px" OnClick="LeftBtn_Click" Text="Left" Width="120px" />
-            <asp:Button ID="TopBtn" runat="server" Height="67px" OnClick="TopBtn_Click" Text="Top" Width="120px" />
-            <asp:Button ID="DownBtn" runat="server" Height="67px" OnClick="DownBtn_Click" Text="Down" Width="120px" />
+        <asp:Panel ID="Panel1" runat="server" Width="476px" Height="300px">
+            <asp:Image ID="Image1" runat="server" Height="300px" ImageUrl="Content/temp.png" Width="300px" ImageAlign="Left" />
+            <asp:ListBox ID="ListBox1" runat="server" Height="142px" Width="171px"></asp:ListBox>
+            <asp:Timer ID="Timer1" runat="server" OnTick="Timer1_Tick" Enabled="False" Interval="500">
+            </asp:Timer>
+            <br />
+        </asp:Panel>
+        <asp:Panel ID="Panel2" runat="server" Width="482px">
+                <asp:Button ID="ShuffleBtn" runat="server" Height="67px" OnClick="ShuffleBtn_Click" Text="Shuffle" Width="120px" />
+                <asp:Button ID="SolveBtn" runat="server" Height="67px" OnClick="SolveBtn_Click" Text="Solve" Width="120px" />
+                <asp:Button ID="MoveBtn" runat="server" Height="67px" OnClick="MoveBtn_Click" Text="Do Move" Width="120px" />
         </asp:Panel>
     </div>
 
